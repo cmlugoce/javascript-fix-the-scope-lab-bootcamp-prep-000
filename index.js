@@ -28,7 +28,6 @@ var theFunk = "FUNKY!"
 // NOTE: you only need to modify the code below this line.
 var theFunk = "FUNKY!"
 function funkyfunction () {
-  return funkyfunction (string)
+  return theFunk
 }
   
-}
